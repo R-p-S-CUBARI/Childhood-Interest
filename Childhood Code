@@ -1,0 +1,41 @@
+{
+  "title": "A Story That Might Start With A Childhood Friend I Had No Romantic Interest In",
+  "description": "What will happen when two childhood friend suddenly starts living together?",
+  "artist": "Natsuna Hono",
+  "author": "Natsuna Hono",
+  "cover": "https://i.imgur.com/GfFbKrt.jpg",
+  "chapters": {
+    "01": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/ymsqlVL/"
+      },
+      "last_updated": "1621925099"
+    },
+        "02": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/5CpOtLB/"
+      },
+      "last_updated": "1621925279"
+    },
+        "03": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/geHpxpz/"
+      },
+      "last_updated": "1621925459"
+    },
+        "04": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/5K8Ku9G/"
+      },
+      "last_updated": "1621925639"
+    }
+  }
+}
